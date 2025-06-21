@@ -1,8 +1,6 @@
 # Medical-Insurance-Prediction
 
 
-A streamlined Python project that:
-
 - **Loads & explores** the Medical Insurance dataset (age, sex, BMI, children, smoker, region, charges)  
 - **Preprocesses** features (one-hot encoding for categorical data, scaling numerical columns)  
 - **Splits** into training and test sets  
